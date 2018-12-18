@@ -3,5 +3,5 @@
 
 git init
 
-read git branch
-echo "$git branch"
+git pull --rebase
+echo "completed"
